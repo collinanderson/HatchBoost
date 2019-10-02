@@ -20,7 +20,7 @@ Optimal Hatch Boost calculator
     <param name='display_count' value='yes' />
   </object>
 </div>                
-<script type='text/javascript'>
+<script>
   var divElement = document.getElementById('viz1570040397211');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   if ( divElement.offsetWidth > 800 )  
