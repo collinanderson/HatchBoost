@@ -12,4 +12,5 @@ B	= Large					|		X	= Epic
 C	= Powerful			|		Y	= Large
 D	= Epic					|		Z	= Legendary
 E	= Legendary			|
-F	= Supreme				|
+F	= Supreme	
+			|
